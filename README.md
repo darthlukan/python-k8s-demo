@@ -1,6 +1,6 @@
-# python-demo
+# python-k8s-demo
 
-Author: Brian Tomlinson <btomlins@redhat.com>
+Author: Brian Tomlinson <darthlukan@gmail.com>
 
 ## Description
 
